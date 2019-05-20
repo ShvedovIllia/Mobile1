@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="this_is_tab_1">This is tab 1</string>
+    <string name="this_is_tab_2">This is tab 2</string>
+    <string name="this_is_tab_3">This is tab 3</string>
+</resources>
